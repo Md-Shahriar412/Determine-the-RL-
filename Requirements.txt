@@ -1,0 +1,8 @@
+Python is needed.
+
+Others library that needed to be installed...........
+
+pandas
+numpy
+matplotlib
+torch
